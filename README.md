@@ -17,8 +17,7 @@ Open this folder in VS Code:
 ```powershell
 npm install
 npm run dev
-```
-Then open the Vite Local URL, normally `http://localhost:5173/`.
+
 
 ## Build test
 ```powershell
