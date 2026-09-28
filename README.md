@@ -1,6 +1,6 @@
 # Finlytics — Financial Expense & Budget Analytics (React)
 
-Updated version with **5 working pages** and a functional **Export Data** button.
+
 
 ## Pages
 1. Overview — executive dashboard, trend, spend mix, budget vs actual.
